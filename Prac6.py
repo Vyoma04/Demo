@@ -4,7 +4,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.naive_bayes import BernoulliNB
 from sklearn.metrics import accuracy_score
 import pandas as pd
-
+#hii
 iris = load_iris()
 
 X = iris.data
